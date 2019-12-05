@@ -21,7 +21,7 @@ x_train, x_test, y_train, y_test = train_test_split(
 x_val, x_test, y_val, y_test = train_test_split(
     x_test, y_test, random_state=33, test_size=0.5, shuffle=False) # 6:2:2
 
-# 2. 모델구성
+# 2. 모델구성 
 from keras.models import Sequential
 from keras.layers import Dense
 model = Sequential()
