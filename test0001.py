@@ -1,6 +1,6 @@
-print('hello')
+print('Hello world!')
 
-import tensor as tf
-import  keras
+import tensorflow as tf
+import keras
 
-print('hello!)
+print('Hello')
