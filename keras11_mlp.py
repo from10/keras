@@ -40,7 +40,7 @@ model.add(Dense(3))
 model.add(Dense(4))
 model.add(Dense(2))
 
-# model.summary()
+# model.summary() 
 
 # 3. 훈련
 
