@@ -4,7 +4,7 @@ import numpy as np
 # x = np.array([range(1,101))
 # y = np.array([range(1,101))
 x = np.array([range(1,101), range(101,201)])
-y = np.array([range(201,301)]) 
+y = np.array([range(201,301)])
 
 # print(x)
 
